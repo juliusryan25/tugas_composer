@@ -1,0 +1,15 @@
+{
+    "name": "starbhak/belajar-composer",
+    "description": "Untuk kebutuhan belajar composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Julius ryan",
+            "email": "ryanjulius742@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
